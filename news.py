@@ -37,6 +37,7 @@ SOURCES = [
     '"barrons.com"',
     '"businesswire.com"',
     '"finance.yahoo.com"',
+    '"guardian"',
 ]
 
 
